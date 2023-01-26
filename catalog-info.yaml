@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: common-library
+  annotations:
+    github.com/project-slug: jbatu-deloitte/common-library
+spec:
+  type: other
+  lifecycle: unknown
+  owner: jairenz
